@@ -17,11 +17,12 @@ ball_y = screen_height // 2
 ball_speed = 5
 jump_speed = 10
 is_jumping = False
+clock = pygame.time.Clock()
 
 # Main game loop
 running = True
 while running:
-    screen.fill((255, 255, 255))  # Fill the screen with white
+    screen.fill((0, 0, 0))  # Fill the screen with white
 
     # Draw the ball on the screen
     pygame.draw.circle(screen, ball_color, (ball_x, ball_y), ball_radius)
