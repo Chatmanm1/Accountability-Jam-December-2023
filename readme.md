@@ -12,5 +12,9 @@ After the game jam is over, take a look at the entries and provide feedback! Tel
 */
 
 ### Scope:
-I want to make a simple game that helps me learn more python programming. I intend to start with PyGame and move onward from there. 
+--I want to make a simple game that helps me learn more python programming. I intend to start with PyGame and move onward from there--
+
+I've transferred the scope of this project to finish a pharmasist hell game where you just dodge different kind of pills forever. 
+
+
 
